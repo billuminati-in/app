@@ -1,4 +1,4 @@
-# Smart Split
+# Billuminati
 
 Split trips, rent and dinners with friends. Everyone signs up, joins a group by invite link, and sees the same live balances.
 

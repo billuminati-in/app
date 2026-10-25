@@ -9,7 +9,7 @@ export const supabase = createClient(url, key, {
   auth: { flowType: 'pkce', persistSession: true, autoRefreshToken: true, detectSessionInUrl: true },
 })
 
-export const APP_NAME = 'Smart Split'
+export const APP_NAME = 'Billuminati'
 
 /** Absolute URL inside the app, respecting the base path the app is deployed under. */
 export function appUrl(path: string) {
